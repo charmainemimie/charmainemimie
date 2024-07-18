@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<div align="center">
+  <h1>I'm Charmaine, a girl who's falling in love with Software Engineering...</h1>
+  <h2><a href="https://charmainesm.netlify.app" target="_blank">My Portfolio</a></h2>
+  <img src="/src/assets/images/hero.png" alt="Website Preview" />
+</div>
+
+
 <!--
 **charmainemimie/charmainemimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
