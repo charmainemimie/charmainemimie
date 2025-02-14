@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>I'm Charmaine, a girl who's falling in love with Software Engineering...</h1>
+  <h1>I'm Charmaine, living life one commit at a time. Writing code, breaking things and occasionally making them work.</h1>
   <h2><a href="https://charmainesm.netlify.app" target="_blank">My Portfolio</a></h2>
 <!--   <img src="/src/assets/images/hero.png" alt="Website Preview" /> -->
 </div>
