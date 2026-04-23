@@ -7,7 +7,7 @@
 </div><br/>
 <div>
   <h3>API SECURITY CERTIFICATE</h3>
-  <img src="https://ibb.co/nsr10bpNhttps://ibb.co/nsr10bpN" alt="api sec cert" />
+  <img src="https://ibb.co/nsr10bpN" alt="api sec cert" />
 </div>
 
 
