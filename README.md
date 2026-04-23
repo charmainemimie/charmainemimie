@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>I'm Charmaine, living life one commit at a time. Writing code, breaking things and occasionally making them work.</h1>
-  <h2><a href="https://charmainem.netlify.app" target="_blank">My Portfolio</a></h2>
+  <h2><a href="https://charmainem.netlify.app" target="_blank">Click here for My Portfolio</a></h2>
 </div>
 <div>
   <h3>API SECURITY CERTIFICATE</h3>
