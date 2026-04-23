@@ -4,8 +4,12 @@
 <div align="center">
   <h1>I'm Charmaine, living life one commit at a time. Writing code, breaking things and occasionally making them work.</h1>
   <h2><a href="https://charmainem.netlify.app" target="_blank">My Portfolio</a></h2>
-<!--   <img src="/src/assets/images/hero.png" alt="Website Preview" /> -->
+</div><br/>
+<div>
+  <h3>API SECURITY CERTIFICATE</h3>
+  <img src="https://ibb.co/nsr10bpNhttps://ibb.co/nsr10bpN" alt="api sec cert" />
 </div>
+
 
 
 <!--
