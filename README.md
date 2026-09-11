@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>I'm Charmaine, living life one commit at a time. Writing code, occasionally breaking things and eventually making them work.</h1>
+  <h1>I'm Charmaine, living life one commit at a time. Writing code, occasionally breaking things and eventually making them work 😁💻</h1>
   <h2><a href="https://charmainem.netlify.app" target="_blank">Click here for My Portfolio</a></h2>
 </div>
 <div>
